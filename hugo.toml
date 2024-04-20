@@ -1,0 +1,4 @@
+baseURL = 'https://seriybg.github.io/'
+languageCode = 'en-us'
+title = 'Football Fanalytics Blog'
+theme = "DoIt"
