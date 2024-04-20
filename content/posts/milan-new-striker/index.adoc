@@ -1,6 +1,6 @@
 ---
 title: "AC Milan's new striker"
-date: 2023-07-19T09:39:58+05:30
+date: 2024-04-20
 draft: false
 categories:
   - Player scouitng
