@@ -30,7 +30,7 @@ image::gyokeres_sm_rp.png[title="Viktor Gyökeres shotmap. FotMob",374,239]
 image::boniface_sm_rp.png[title="Victor Boniface shotmap. FotMob",374,239]
 image::gimenez_sm_rp.png[title="Santiago Giménez shotmap. FotMob",374,239]
 
-Looking at the shot map, we can also notice that Zirkzee shoots from the least dangerous position, with an average of 0.9 npxG per shot, and is the only one with worse numbers than the Frenchman. The two most hazardous shooters are David and Giménez, standing at 0.19 npxG per shot.
+Looking at the shot map, we can also notice that Zirkzee shoots from the least dangerous position, with an average of 0.09 npxG per shot, and is the only one with worse numbers than the Frenchman. The two most hazardous shooters are David and Giménez, standing at 0.19 npxG per shot.
 
 == Chances created
 However, the forward's job is broader than scoring goals; they also create chances for their partners.
