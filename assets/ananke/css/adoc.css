@@ -69,3 +69,12 @@
 .w-two-thirds-l {
     width: 100% !important;
 }
+
+.imageblock {
+    display: inline-block;
+}
+
+.title {
+    font-style: italic;
+    font-size: small;
+}
