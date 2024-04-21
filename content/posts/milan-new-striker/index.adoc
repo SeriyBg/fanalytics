@@ -8,6 +8,8 @@ categories:
 tags:
   - data-analysis
   - forward
+cascade:
+  featured_image: 'images/giroud_la.png'
 ---
 
 [%hardbreaks]
