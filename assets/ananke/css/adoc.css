@@ -79,3 +79,7 @@
     font-style: italic;
     font-size: small;
 }
+
+#sharing > a > span > svg > path {
+    fill: black;
+}

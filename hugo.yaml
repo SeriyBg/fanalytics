@@ -1,0 +1,35 @@
+baseURL: "https://seriybg.github.io/fanalytics/"
+languageCode: en-us
+title: Football Fanalytics
+theme: ananke
+params:
+  custom_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
+  - adoc.css
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com/BishyrS
+    color: balck
+  - name: github
+    url: https://github.com/SeriyBg/fanalytics
+markup:
+  asciidocExt:
+    attributes:
+      allow-uri-read: ""
+      source-highlighter: rouge
+      rouge-css: style
+      rouge-style: thankful_eyes
+      icons: font
+security:
+  exec:
+    allow:
+    - ^dart-sass-embedded$
+    - ^go$
+    - ^npx$
+    - ^postcss$
+    - ^asciidoctor$
+  http:
+    methods:
+    - (?i)GET|POST
+    urls:
+    - .*
