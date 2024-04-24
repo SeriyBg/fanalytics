@@ -1,7 +1,21 @@
 baseURL: "https://seriybg.github.io/fanalytics/"
+defaultContentLanguage: en
 languageCode: en-us
 title: Football Fanalytics
 theme: ananke
+languages:
+  en:
+    languageName: English
+    languageCode: en-us
+    title: Football Fanalytics
+    theme: ananke
+    contentDir: "content/en"
+  ua:
+    languageName: Українська
+    languageCode: en-us
+    title: Футбольна фаналітика
+    theme: ananke
+    contentDir: "content/ua"
 params:
   custom_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
