@@ -2,7 +2,7 @@ baseURL: "https://seriybg.github.io/fanalytics/"
 defaultContentLanguage: en
 languageCode: en-us
 title: Football Fanalytics
-theme: ananke
+theme: ["github.com/theNewDynamic/gohugo-theme-ananke"]
 languages:
   en:
     languageName: English
